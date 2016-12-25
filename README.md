@@ -8,3 +8,8 @@ The project aims at developing a recommender system for movie streaming website.
 5. `boto3`
 6. `numpy`
 7. `math`
+
+####To use project
+1. To use the project, install the dependencies.
+2. The code for connected components in a graph is given in `src/connectedGraph.py`.
+3. The code for clustering and collaborative filtering is give in `src/clusterCF.py`.
